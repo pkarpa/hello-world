@@ -12,3 +12,7 @@ Just another repository
 5.Здійснити запит на об'єднання версій.
 6.Перейти до співпраці над одним проектом.
 7.Створити реліз спільного проекту.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+День Міста 
+https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZrZzU2b2o4ZXYxNTkzcTM0cTNtNTA2dXAgcGF2bG8ua2FycGExN0Bt&tmsrc=pavlo.karpa17%40gmail.com
