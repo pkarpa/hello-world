@@ -16,3 +16,6 @@ Just another repository
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 День Міста 
 https://calendar.google.com/event?action=TEMPLATE&tmeid=MDZrZzU2b2o4ZXYxNTkzcTM0cTNtNTA2dXAgcGF2bG8ua2FycGExN0Bt&tmsrc=pavlo.karpa17%40gmail.com
+
+Опитування
+https://docs.google.com/forms/d/e/1FAIpQLSevCJJpkie1uBVRxSOodX4yp7ky5Umq6RT0RMiUxmFhsrV0iw/viewform?usp=sf_link
